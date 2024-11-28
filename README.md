@@ -1,6 +1,7 @@
 # MergeMKV
 MergeMKV is a simple and powerful tool for merging single or multiple video and audio files. This Python script uses the FFMPEG tool to automatically combine audio (MP3) and video (MP4 or MKV) files that have the same name. Outputs are saved in MKV format and all operations are performed automatically with progress display.
 
+[توضیح مستندات ](#توضیح-مستندات)
 [Documentation Explanation](#Documentation-Explanation)
 
 ---
@@ -15,9 +16,9 @@ MergeMKV is a simple and powerful tool for merging single or multiple video and 
 
 ---
 ## فهرست مطالب
-1. [معرفی پروژه](#معرفی-پروژه)
-2. [ویژگی‌ها](#ویژگی‌ها)
-3. [پیش‌نیازها](#پیش‌نیازها)
+1. [مستندات](#توضیح-مستندات)
+2. [ویژگی‌ها](#ویژگیها)
+3. [پیش‌نیازها](#پیشنیازها)
 4. [ساختار فایل‌ها](#ساختار-فایل‌ها)
 5. [نحوه استفاده](#نحوه-استفاده)
 6. [موارد قابل بهبود](#موارد-قابل-بهبود)
