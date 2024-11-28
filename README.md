@@ -3,7 +3,7 @@ MergeMKV is a simple and powerful tool for merging single or multiple video and 
 
 
 
-### توضیح کامل و مناسب برای مستندات گیت‌هاب
+### توضیح برای مستندات 
 
 ---
 
